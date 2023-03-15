@@ -1,0 +1,20 @@
+{
+  "name": "twitch-recorder",
+  "version": "1.0.0",
+  "description": "A real-time recorder to prevent streamers from forgetting recording",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node ."
+  },
+  "keywords": [
+    "twitch"
+  ],
+  "author": "jaemin1508",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ws": "^8.5.4",
+    "axios": "^1.3.4",
+    "chalk": "^4.1.2",
+    "ws": "^8.13.0"
+  }
+}
