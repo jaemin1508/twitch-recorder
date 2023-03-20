@@ -2,7 +2,7 @@
   "name": "twitch-recorder",
   "version": "1.0.0",
   "description": "A real-time recorder for streamers who are vod disabled.",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "ts-node ."
   },
